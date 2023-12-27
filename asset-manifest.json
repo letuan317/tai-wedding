@@ -1,40 +1,18 @@
 {
   "files": {
-    "main.css": "/tai-wedding/static/css/main.9309e9e4.css",
-    "main.js": "/tai-wedding/static/js/main.c2f26ec5.js",
+    "main.css": "/tai-wedding/static/css/main.67778505.css",
+    "main.js": "/tai-wedding/static/js/main.b619c289.js",
     "static/js/787.d5fa4d18.chunk.js": "/tai-wedding/static/js/787.d5fa4d18.chunk.js",
     "static/media/background.png": "/tai-wedding/static/media/background.8f8525bb5c8419166ae5.png",
     "static/media/photo.jpg": "/tai-wedding/static/media/photo.146a2556ad11506ea368.jpg",
-    "static/media/layout-nha-trai.png": "/tai-wedding/static/media/layout-nha-trai.f022704cbc474cedaaaf.png",
-    "static/media/service-team.png": "/tai-wedding/static/media/service-team.7eeead283a4dca6f809b.png",
-    "static/media/apak-2.png": "/tai-wedding/static/media/apak-2.df0f1fe0b03327ee0509.png",
-    "static/media/apak-3.png": "/tai-wedding/static/media/apak-3.8af733c8bdde76241732.png",
-    "static/media/apak-4.png": "/tai-wedding/static/media/apak-4.fd0f0530640d5475bd8c.png",
-    "static/media/ban-hoc-2.png": "/tai-wedding/static/media/ban-hoc-2.08f4c04d0ce6ae6eae59.png",
-    "static/media/ho-trai-4.png": "/tai-wedding/static/media/ho-trai-4.659336f877171c834620.png",
-    "static/media/apak-1.png": "/tai-wedding/static/media/apak-1.ee9193a7c217ef04bd11.png",
-    "static/media/lysaght-5.png": "/tai-wedding/static/media/lysaght-5.c8f52810e5c6091f41e5.png",
-    "static/media/lysaght-6.png": "/tai-wedding/static/media/lysaght-6.4dcc741aff2609dd04d6.png",
-    "static/media/bluescope-4.png": "/tai-wedding/static/media/bluescope-4.3acbf8e92b119deb9e8b.png",
-    "static/media/lysaght-4.png": "/tai-wedding/static/media/lysaght-4.04f9029dac8f77648c17.png",
-    "static/media/bluescope-3.png": "/tai-wedding/static/media/bluescope-3.dc74511ff75cf4bb99e9.png",
-    "static/media/ho-trai-3.png": "/tai-wedding/static/media/ho-trai-3.791cded82160e886bfbe.png",
-    "static/media/lysaght-3.png": "/tai-wedding/static/media/lysaght-3.992a4918f79881b83c9e.png",
-    "static/media/ban-hoc-1.png": "/tai-wedding/static/media/ban-hoc-1.2919062f854a44dacdf3.png",
-    "static/media/bluescope-1.png": "/tai-wedding/static/media/bluescope-1.63cc025db06a4469459e.png",
-    "static/media/ho-trai-1.png": "/tai-wedding/static/media/ho-trai-1.a7504b8c0af3ff34ee07.png",
-    "static/media/lysaght-1.png": "/tai-wedding/static/media/lysaght-1.bf43aec08fcce5452b6f.png",
-    "static/media/lysaght-7.png": "/tai-wedding/static/media/lysaght-7.f84ffc23d28aa819514a.png",
-    "static/media/ho-trai-2.png": "/tai-wedding/static/media/ho-trai-2.0c2a2c056b3b46e5f169.png",
-    "static/media/bluescope-2.png": "/tai-wedding/static/media/bluescope-2.341d68086e7b75fb6c9d.png",
-    "static/media/lysaght-2.png": "/tai-wedding/static/media/lysaght-2.3a5cad7451cf32ce8e43.png",
+    "static/media/layout-nha-trai.png": "/tai-wedding/static/media/layout-nha-trai.413a9570f1e1236c8ae9.png",
     "index.html": "/tai-wedding/index.html",
-    "main.9309e9e4.css.map": "/tai-wedding/static/css/main.9309e9e4.css.map",
-    "main.c2f26ec5.js.map": "/tai-wedding/static/js/main.c2f26ec5.js.map",
+    "main.67778505.css.map": "/tai-wedding/static/css/main.67778505.css.map",
+    "main.b619c289.js.map": "/tai-wedding/static/js/main.b619c289.js.map",
     "787.d5fa4d18.chunk.js.map": "/tai-wedding/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9309e9e4.css",
-    "static/js/main.c2f26ec5.js"
+    "static/css/main.67778505.css",
+    "static/js/main.b619c289.js"
   ]
 }
