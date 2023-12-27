@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tai-wedding/static/css/main.67778505.css",
-    "main.js": "/tai-wedding/static/js/main.b619c289.js",
+    "main.css": "/tai-wedding/static/css/main.f2cde801.css",
+    "main.js": "/tai-wedding/static/js/main.3c282087.js",
     "static/js/787.d5fa4d18.chunk.js": "/tai-wedding/static/js/787.d5fa4d18.chunk.js",
     "static/media/background.png": "/tai-wedding/static/media/background.8f8525bb5c8419166ae5.png",
     "static/media/photo.jpg": "/tai-wedding/static/media/photo.146a2556ad11506ea368.jpg",
     "static/media/layout-nha-trai.png": "/tai-wedding/static/media/layout-nha-trai.413a9570f1e1236c8ae9.png",
     "index.html": "/tai-wedding/index.html",
-    "main.67778505.css.map": "/tai-wedding/static/css/main.67778505.css.map",
-    "main.b619c289.js.map": "/tai-wedding/static/js/main.b619c289.js.map",
+    "main.f2cde801.css.map": "/tai-wedding/static/css/main.f2cde801.css.map",
+    "main.3c282087.js.map": "/tai-wedding/static/js/main.3c282087.js.map",
     "787.d5fa4d18.chunk.js.map": "/tai-wedding/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67778505.css",
-    "static/js/main.b619c289.js"
+    "static/css/main.f2cde801.css",
+    "static/js/main.3c282087.js"
   ]
 }
